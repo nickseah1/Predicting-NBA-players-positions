@@ -43,7 +43,7 @@ We will use data from: https://www.basketball-reference.com/leagues/NBA_2020_per
 
   2. **5 Position Model**
 
-  Predicted a player's position with 66% Accuracy using a Random Forest Algorithm.
+  Predicted a player's position with 67% Accuracy using a Random Forest Algorithm.
 
   3. **2 Position Model**
 
