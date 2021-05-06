@@ -4,7 +4,7 @@
 
 NBA players are selected to the All-Star game by position. This means that the All-Star team isn't necessarily the top players, but the top players at each position. This year Nikola Vucevic made the team averaging 23.8 PPG 3.7 APG and 11.5 RPG while players such as Russel Westbrook averaged 21.9 PPG 11.3 RPG and 11.3 APG and didn't make the team. The argument often used is that a player can average less stats but have their team performing better to make it to the All-Star game, but the Orando Magic and Washington Wizards were performing about the same. The real reason is because there are many more elite point guards in the NBA tha elite centers. 
 
-In the game of basketball, there are 5 players on the court at a time on each team. Traditionally there have been 5 different positions. However, from a stastical viewpoint are there truly 5 different positions in the game of basketball? 
+In the game of basketball, there are 5 players on the court at a time on each team. Traditionally there have been 5 different positions. However, from a statistical viewpoint are there truly 5 different positions in the game of basketball? 
 
 
 # Model Description
